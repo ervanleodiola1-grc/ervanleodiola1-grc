@@ -18,7 +18,7 @@ Welcome to my GRC portfolio. I am currently a student actively learning how orga
 
 Here are the practical GRC projects I have built while learning:
 
-### [Project 1: Enterprise Risk Assessment & Risk Register]
+### Project 1: Enterprise Risk Assessment & Risk Register
 * **Goal:** Performed a simulated risk assessment for a fictional cloud-based startup using NIST SP 800-30 principles.
 * **Key Deliverables:** 
   * Qualitative Risk Register (Likelihood vs. Impact matrix)
