@@ -18,12 +18,13 @@ Welcome to my GRC portfolio. I am currently a student actively learning how orga
 
 Here are the practical GRC projects I have built while learning:
 
-### [Project 1: Enterprise Risk Assessment & Risk Register][https://github.com/ervanleodiola1-grc/risk-assessment-project]
+### [Project 1: Enterprise Risk Assessment & Risk Register]
 * **Goal:** Performed a simulated risk assessment for a fictional cloud-based startup using NIST SP 800-30 principles.
 * **Key Deliverables:** 
   * Qualitative Risk Register (Likelihood vs. Impact matrix)
   * Risk Mitigation & Remediation Action Plan
 * **Skills Demonstrated:** Threat identification, risk scoring, writing risk statements.
+* **Link:** https://github.com/ervanleodiola1-grc/risk-assessment-project
 
 ### [Project 2: Security Policy & Framework Mapping](link-to-repo)
 * **Goal:** Drafted core information security policies and mapped them directly to compliance frameworks.
