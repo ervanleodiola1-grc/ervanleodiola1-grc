@@ -27,11 +27,12 @@ Here are the practical GRC projects I have built while learning:
 * **Link:** https://github.com/ervanleodiola1-grc/risk-assessment-project
 
 ### Project 2: Security Policy & Framework Mapping
-* **Goal:** Drafted core information security policies and mapped them directly to compliance frameworks.
+* **Goal:** Drafted core information security policies and mapped them directly to compliance frameworks for a healthcare tech environment.
 * **Key Deliverables:**
   * Sample Access Control Policy & Password Standard
-  * Framework Mapping Matrix (mapped to ISO 27001 Annex A controls)
-* **Skills Demonstrated:** Policy drafting, regulatory mapping, clear technical writing.
+  * Framework Mapping Matrix: Cross-walked policy rules against NIST CSF v2.0, ISO 27001 Annex A, and HIPAA.
+  * Compliance Gap Analysis & Remediation Plan
+* **Skills Demonstrated:** Policy drafting, regulatory mapping, clear technical writing, gap identification & remediation.
 * **Link:** https://github.com/ervanleodiola1-grc/grc-policy-control-mapping
 
 ### [Project 3: NIST CSF Gap Analysis](link-to-repo)
