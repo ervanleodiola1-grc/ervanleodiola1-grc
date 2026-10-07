@@ -26,12 +26,13 @@ Here are the practical GRC projects I have built while learning:
 * **Skills Demonstrated:** Threat identification, risk scoring, writing risk statements.
 * **Link:** https://github.com/ervanleodiola1-grc/risk-assessment-project
 
-### [Project 2: Security Policy & Framework Mapping](link-to-repo)
+### Project 2: Security Policy & Framework Mapping
 * **Goal:** Drafted core information security policies and mapped them directly to compliance frameworks.
 * **Key Deliverables:**
   * Sample Access Control Policy & Password Standard
   * Framework Mapping Matrix (mapped to ISO 27001 Annex A controls)
 * **Skills Demonstrated:** Policy drafting, regulatory mapping, clear technical writing.
+* **Link:** https://github.com/ervanleodiola1-grc/grc-policy-control-mapping
 
 ### [Project 3: NIST CSF Gap Analysis](link-to-repo)
 * **Goal:** Evaluated a mock organization's security posture against the NIST Cybersecurity Framework v2.0.
