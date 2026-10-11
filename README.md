@@ -2,7 +2,7 @@
 
 **Student | Aspiring Governance, Risk, and Compliance (GRC) Analyst**
 
-Welcome to my GRC portfolio. I am currently a student actively learning how organizations protect their data, manage security risks, and meet regulatory standards. I use this GitHub space to document my learning journey, build hands-on GRC projects, and practice translating security frameworks into practical solutions.
+Welcome to my GRC portfolio. I am currently a student actively learning how organizations protect their data, manage security risks, and meet regulatory standards. I use this GitHub space to document my learning journey starting from zero, build hands-on GRC projects, and practice translating security frameworks into practical solutions.
 
 ---
 
