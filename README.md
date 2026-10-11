@@ -35,13 +35,6 @@ Here are the practical GRC projects I have built while learning:
 * **Skills Demonstrated:** Policy drafting, regulatory mapping, clear technical writing, gap identification & remediation.
 * **Link:** https://github.com/ervanleodiola1-grc/grc-policy-control-mapping
 
-### [Project 3: NIST CSF Gap Analysis](link-to-repo)
-* **Goal:** Evaluated a mock organization's security posture against the NIST Cybersecurity Framework v2.0.
-* **Key Deliverables:**
-  * Gap Analysis Report identifying missing controls
-  * Prioritized roadmap for remediation
-* **Skills Demonstrated:** Control evaluation, gap identification, reporting.
-
 ---
 
 ## My info
