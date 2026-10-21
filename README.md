@@ -24,7 +24,7 @@ Here are the practical GRC projects I have built:
   * Qualitative Risk Register (Likelihood vs. Impact matrix)
   * Risk Mitigation & Remediation Action Plan
 * **Skills Demonstrated:** Threat identification, risk scoring, writing risk statements.
-* **Outcomes: ** 
+* **Outcomes:**
 * **Link:** https://github.com/ervanleodiola1-grc/risk-assessment-project
 
 ### Project 2: Security Policy & Framework Mapping
