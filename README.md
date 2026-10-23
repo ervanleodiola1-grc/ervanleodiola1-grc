@@ -28,13 +28,14 @@ Here are the practical GRC projects I have built:
 * **Link:** https://github.com/ervanleodiola1-grc/risk-assessment-project
 
 ### Project 2: Security Policy & Framework Mapping
-* **Goal:** Drafted core information security policies and mapped them directly to compliance frameworks for a healthcare tech environment.
-* **Key Deliverables:**
-  * Sample Access Control Policy & Password Standard
-  * Framework Mapping Matrix: Cross-walked policy rules against NIST CSF v2.0, ISO 27001 Annex A, and PIPEDA.
-  * Compliance Gap Analysis & Remediation Plan
-* **Skills Demonstrated:** Policy drafting, regulatory mapping, clear technical writing, gap identification & remediation.
-* **Link:** https://github.com/ervanleodiola1-grc/grc-policy-control-mapping
+
+- **Goal:** Wrote three core information security policies for a fictional small company and mapped each policy section to NIST Cybersecurity Framework (CSF) 2.0 controls, to practice the policy-to-framework mapping used in GRC work.
+- **Key Deliverables:**
+  - Three policies: Access Control, Password & Authentication, and Incident Response
+  - Policy-to-control mapping table linking 16 policy requirements to NIST CSF 2.0 subcategories across the Govern, Protect, Detect, Respond, Recover, and Identify functions
+  - README documenting my approach, lessons learned, and next steps
+- **Skills Demonstrated:** Policy drafting, framework mapping, clear technical writing, and verifying control references against the official NIST source.
+- **Link:** https://github.com/ervanleodiola1-grc/grc-policy-control-mapping
 
 ---
 
