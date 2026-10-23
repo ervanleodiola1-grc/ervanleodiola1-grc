@@ -25,7 +25,7 @@ Here are the practical GRC projects I have built:
   * Risk Mitigation & Remediation Action Plan
 * **Skills Demonstrated:** Threat identification, risk scoring, writing risk statements.
 * **Outcomes:**
-* **Link:** https://github.com/ervanleodiola1-grc/risk-assessment-project
+* **Link:** [https://github.com/ervanleodiola1-grc/risk-assessment-project](https://github.com/ervanleodiola1-grc/grc-framework-primer-risk-assessment/blob/main/README.md)
 
 ### Project 2: Security Policy & Framework Mapping
 
