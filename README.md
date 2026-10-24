@@ -27,7 +27,7 @@ Here are the practical GRC projects I have built:
   - Control mapping linking each treatment to NIST CSF 2.0, ISO 27001 Annex A, and SOC 2 criteria
 - **Skills Demonstrated:** Threat identification, risk scoring, writing risk statements, control selection, and cross-framework mapping.
 - **Outcomes:** Identified control gaps in the fictional company (for example, third-party risk and vulnerability management) and mapped planned controls across three frameworks.
-- **Link:** https://github.com/ervanleodiola1-grc/risk-assessment-project
+- **Link:** [https://github.com/ervanleodiola1-grc/risk-assessment-project](https://github.com/ervanleodiola1-grc/grc-framework-primer-risk-assessment)
 
 ### Project 2: Security Policy & Framework Mapping
 
