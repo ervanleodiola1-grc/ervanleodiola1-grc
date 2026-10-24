@@ -44,5 +44,5 @@ Here are the practical GRC projects I have built:
 ## My info
 
 * **LinkedIn:** [www.linkedin.com/in/ervan-diola-b3b7b6289]
-* **Email:** [ervanleodiola@gmail.com](ervanleodiola@gmail.com)
+* **Email:** [ervanleodiola1@gmail.com](ervanleodiola1@gmail.com)
 
