@@ -18,14 +18,16 @@ Welcome to my GRC portfolio. I am currently a student actively learning how orga
 
 Here are the practical GRC projects I have built:
 
-### Project 1: Enterprise Risk Assessment & Risk Register
-* **Goal:** Performed a simulated risk assessment for a fictional cloud-based startup using NIST SP 800-30 principles.
-* **Key Deliverables:** 
-  * Qualitative Risk Register (Likelihood vs. Impact matrix)
-  * Risk Mitigation & Remediation Action Plan
-* **Skills Demonstrated:** Threat identification, risk scoring, writing risk statements.
-* **Outcomes:**
-* **Link:** [https://github.com/ervanleodiola1-grc/risk-assessment-project](https://github.com/ervanleodiola1-grc/grc-framework-primer-risk-assessment/blob/main/README.md)
+### Project 1: Framework Primer & Risk Assessment
+
+- **Goal:** Compared NIST CSF 2.0, ISO 27001, and SOC 2, then applied them by running a simulated risk assessment for a fictional 40-person payments company, using a simplified likelihood x impact method inspired by NIST SP 800-30.
+- **Key Deliverables:**
+  - Framework comparison covering purpose, structure, certifiability, and typical users, with a recommendation for which framework the fictional company would choose
+  - Risk register of 9 risks, each scored on likelihood and impact (1-5 scale), with existing controls and planned treatments
+  - Control mapping linking each treatment to NIST CSF 2.0, ISO 27001 Annex A, and SOC 2 criteria
+- **Skills Demonstrated:** Threat identification, risk scoring, writing risk statements, control selection, and cross-framework mapping.
+- **Outcomes:** Identified control gaps in the fictional company (for example, third-party risk and vulnerability management) and mapped planned controls across three frameworks.
+- **Link:** https://github.com/ervanleodiola1-grc/risk-assessment-project
 
 ### Project 2: Security Policy & Framework Mapping
 
