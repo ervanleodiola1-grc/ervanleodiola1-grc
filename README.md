@@ -39,6 +39,16 @@ Here are the practical GRC projects I have built:
 - **Skills Demonstrated:** Policy drafting, framework mapping, clear technical writing, and verifying control references against the official NIST source.
 - **Link:** https://github.com/ervanleodiola1-grc/grc-policy-control-mapping
 
+### Project 3: Control Gap-Analysis Tool (In Progress) 
+- **Goal:** Building a small control gap-analysis tool for a fictional 40-person payments company, to practice the control testing and gap reporting used in GRC and IT risk work.
+- **Key Deliverables:**
+  - Excel control mapping table linking ISO 27001, NIST CSF 2.0, and SOC 2 requirements to controls, with fields for owner, status, evidence, test result, deficiency, risk rating, and remediation due date (in progress)
+  - Python script that reads the table, flags missing, untested, and failing controls, and outputs a gap summary by framework and risk rating (planned)
+  - Power BI dashboard showing gaps by framework, risk rating, status, and overdue remediation (planned)
+  - Process map of the gap analysis workflow and a README documenting the approach (planned)
+- **Skills Demonstrated:** Control mapping, gap analysis, control testing concepts, deficiency tracking, remediation tracking, Python, Excel, data visualization.
+- **Link:** https://github.com/ervanleodiola1-grc/grc-policy-control-mapping
+
 ---
 
 ## My info
