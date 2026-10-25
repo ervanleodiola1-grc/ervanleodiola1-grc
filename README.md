@@ -47,7 +47,7 @@ Here are the practical GRC projects I have built:
   - Power BI dashboard showing gaps by framework, risk rating, status, and overdue remediation (planned)
   - Process map of the gap analysis workflow and a README documenting the approach (planned)
 - **Skills Demonstrated:** Control mapping, gap analysis, control testing concepts, deficiency tracking, remediation tracking, Python, Excel, data visualization.
-- **Link:** https://github.com/ervanleodiola1-grc/grc-policy-control-mapping
+- **Link:** [https://github.com/ervanleodiola1-grc/grc-policy-control-mapping](https://github.com/ervanleodiola1-grc/grc-control-gap-analysis)
 
 ---
 
