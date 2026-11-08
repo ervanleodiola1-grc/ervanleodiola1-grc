@@ -1,8 +1,8 @@
 # Hi, I'm Ervan Diola 
 
-**Student | Aspiring Governance, Risk, and Compliance (GRC) Analyst**
+**Student | Security Analyst**
 
-Welcome to my GRC portfolio. I am currently a student actively learning how organizations protect their data, manage security risks, and meet regulatory standards. I use this GitHub space to document my learning journey starting from zero, build hands-on GRC projects, and practice translating security frameworks into practical solutions.
+Welcome to my portfolio. I am currently a student actively learning how organizations protect their data, manage security risks, and meet regulatory standards. I use this GitHub space to document my learning journey starting from zero, build hands-on projects, and practice translating security frameworks into practical solutions.
 
 ---
 
@@ -10,8 +10,7 @@ Welcome to my GRC portfolio. I am currently a student actively learning how orga
 
 * **Frameworks I'm Learning:** NIST CSF (Cybersecurity Framework), ISO/IEC 27001, SOC 2
 * **Core Skills in Progress:** Risk Assessments, Security Policy Drafting, Gap Analysis, Control Mapping
-* **Current Certifications / Target Certifications:** Studying for CompTIA Security+ 
-
+* **Current Certifications / Target Certifications:** Studying for ISC2 Certified in Cybersecurity
 ---
 
 ## Portfolio Projects
